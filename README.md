@@ -81,18 +81,6 @@
 
 ### 📊 GitHub Activity
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=KorchemnyiNikita&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-### 🧩 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KorchemnyiNikita&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" />
-
-</div>
+<a href="https://github.com/KorchemnyiNikita">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KorchemnyiNikita&theme=transparent" />
+</a>
