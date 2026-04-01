@@ -81,13 +81,16 @@
 
 ### 📊 GitHub Stats
 
+<div align="center">
 <a href="https://github.com/KorchemnyiNikita">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KorchemnyiNikita&layout=compact&langs_count=8&card_width=200&bg_color=00000000" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KorchemnyiNikita&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </a>
 <a href="https://github.com/KorchemnyiNikita">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=KorchemnyiNikita&show_icons=true&bg_color=00000000&rank_icon=github&custom_title=GitHub%20Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KorchemnyiNikita&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
-
+</div>
+<div align="center">
 <a href="https://github.com/KorchemnyiNikita">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KorchemnyiNikita&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KorchemnyiNikita&theme=tokyonight" />
 </a>
+</div>
