@@ -82,5 +82,5 @@
 ### 📊 GitHub Activity
 
 <a href="https://github.com/KorchemnyiNikita">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KorchemnyiNikita&theme=transparent" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KorchemnyiNikita&theme=github_dark" />
 </a>
